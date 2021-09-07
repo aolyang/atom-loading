@@ -2,6 +2,10 @@
 
 ![Atom SVG icon](https://raw.githubusercontent.com/aolyang/atom-loading/main/shot.png)
 
+[Online demo](https://aolyang.github.io/atom-loading/)
+
+[CodePen demo](https://codepen.io/octo1996/pen/dyROpoo)
+
 + pure javascript
 + generated, only svg elements
 + easy to DIY
